@@ -1,0 +1,27 @@
+{
+  "firestart": {
+    "sounds": [
+      "ultrakill:firestart"
+    ]
+  },
+  "hammerexplosion1": {
+	  "sounds": [
+	    "ultrakill:hammerexplosion1"
+	]
+  },
+   "hammerexplosion2": {
+	  "sounds": [
+	    "ultrakill:hammerexplosion2"
+	]
+  },
+  "hammerexplosion3": {
+	  "sounds": [
+	    "ultrakill:hammerexplosion3"
+	]
+  },
+  "hammerimpact": {
+	  "sounds": [
+	    "ultrakill:hammerimpact"
+	]
+  }
+}

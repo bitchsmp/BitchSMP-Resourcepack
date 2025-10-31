@@ -1,0 +1,31 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/fullscreen.png",
+            "ascent": 1000,
+            "height": 2000,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/fullscreen_black.png",
+            "ascent": 1000,
+            "height": 2000,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/fullscreen_transparent.png",
+            "ascent": 1000,
+            "height": 2000,
+            "chars": [
+                ""
+            ]
+        }
+    ]
+}

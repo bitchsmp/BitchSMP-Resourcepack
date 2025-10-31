@@ -1,0 +1,16 @@
+RANK UNICODE MAPPING
+==================
+Pack: Nautical Ranks v3
+Author: seavitas
+Generated: 10/30/2025, 7:25:16 PM
+
+Filename		Unicode Character	Unicode Hex
+--------		-----------------	-----------
+fullscreen						U+E000
+fullscreen_black						U+E001
+fullscreen_transparent						U+E002
+
+
+How to use:
+Copy the Unicode Character and paste it in your text/signs/books in Minecraft.
+The corresponding rank image will appear in place of the character.
