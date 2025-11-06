@@ -1,0 +1,18 @@
+{
+  "adrenalineactivate": {
+    "sounds": [
+	{
+        "name": "calamitymod:adrenalineactivate",
+        "volume": 0.3
+	}
+    ]
+  },
+  "rageactivate": {
+	  "sounds": [
+	  {
+        "name": "calamitymod:rageactivate",
+        "volume": 0.3
+	  }
+	]
+  }
+}
