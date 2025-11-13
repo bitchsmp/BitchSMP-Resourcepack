@@ -1,27 +1,87 @@
 {
+  "boulder_impact_on_stones_14": {
+    "sounds": [
+      "ultrakill:boulder_impact_on_stones_14"
+    ]
+  },
+  "boulder_impact_on_stones_14_fast": {
+    "sounds": [
+      "ultrakill:boulder_impact_on_stones_14_fast"
+    ]
+  },
+  "explosion_1": {
+    "sounds": [
+      "ultrakill:explosion_1"
+    ]
+  },
+  "explosion_2": {
+    "sounds": [
+      "ultrakill:explosion_2"
+    ]
+  },
+  "explosion_harmless": {
+    "sounds": [
+      "ultrakill:explosion_harmless"
+    ]
+  },
   "firestart": {
     "sounds": [
       "ultrakill:firestart"
     ]
   },
-  "hammerexplosion1": {
-	  "sounds": [
-	    "ultrakill:hammerexplosion1"
-	]
+  "fullauto": {
+    "sounds": [
+      "ultrakill:fullauto"
+    ]
   },
-   "hammerexplosion2": {
-	  "sounds": [
-	    "ultrakill:hammerexplosion2"
-	]
+  "fullerauto": {
+    "sounds": [
+      "ultrakill:fullerauto"
+    ]
+  },
+  "hammerexplosion1": {
+    "sounds": [
+      "ultrakill:hammerexplosion1"
+    ]
+  },
+  "hammerexplosion2": {
+    "sounds": [
+      "ultrakill:hammerexplosion2"
+    ]
   },
   "hammerexplosion3": {
-	  "sounds": [
-	    "ultrakill:hammerexplosion3"
-	]
+    "sounds": [
+      "ultrakill:hammerexplosion3"
+    ]
   },
   "hammerimpact": {
-	  "sounds": [
-	    "ultrakill:hammerimpact"
-	]
+    "sounds": [
+      "ultrakill:hammerimpact"
+    ]
+  },
+  "landing": {
+    "sounds": [
+      "ultrakill:landing"
+    ]
+  },
+  "landingheavy": {
+    "sounds": [
+      "ultrakill:landingHeavy"
+    ]
+  },
+  "metal_hit_crash_199": {
+    "sounds": [
+      "ultrakill:metal_hit_crash_199"
+    ]
+  },
+  "punch_projectile": {
+    "sounds": [
+      "ultrakill:punch_projectile"
+    ]
+  },
+  "rocketfire5": {
+    "sounds": [
+      "ultrakill:rocketfire5"
+    ]
   }
 }
