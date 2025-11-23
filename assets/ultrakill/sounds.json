@@ -83,5 +83,10 @@
     "sounds": [
       "ultrakill:rocketfire5"
     ]
+  },
+  "impacts_processed_179": {
+	 "sounds": [
+	  "ultrakill:impacts_processed_179"
+    ]
   }
 }

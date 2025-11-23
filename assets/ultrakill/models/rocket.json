@@ -1,8 +1,10 @@
 {
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
+	"texture_size": [4, 4],
 	"textures": {
 		"0": "ultrakill:item/rocket",
+		"1": "ultrakill:item/rocket_spark",
 		"particle": "ultrakill:item/rocket"
 	},
 	"elements": [
@@ -841,6 +843,20 @@
 				"up": {"uv": [0, 0, 1.25, 0.45], "texture": "#0"},
 				"down": {"uv": [0, 0, 1.25, 0.45], "texture": "#0"}
 			}
+		},
+		{
+			"name": "spark",
+			"from": [2.1, 5, 7],
+			"to": [2.1, 7, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2.1, 5, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 4], "texture": "#1"},
+				"east": {"uv": [0, 0, 4, 4], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 4], "texture": "#1"},
+				"west": {"uv": [0, 0, 4, 4], "texture": "#1"},
+				"up": {"uv": [0, 4, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 4], "texture": "#1"}
+			}
 		}
 	],
 	"display": {
@@ -939,6 +955,7 @@
 					"children": [56, 57, 58, 59]
 				}
 			]
-		}
+		},
+		60
 	]
 }
