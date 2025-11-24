@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "model",
+    "model": "hbm:item/canister_napalm"
+  }
+}
