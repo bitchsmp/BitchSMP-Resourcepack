@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "model",
+    "model": "hbm:item/fluid_barrel_nitrogen"
+  }
+}
