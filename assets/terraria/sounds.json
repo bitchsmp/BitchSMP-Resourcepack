@@ -1,0 +1,12 @@
+{
+  "item_1": {
+    "sounds": [
+      "terraria:item_1"
+    ]
+  },
+  "item_60": {
+    "sounds": [
+      "terraria:item_60"
+    ]
+  }
+}
