@@ -88,5 +88,170 @@
 	 "sounds": [
 	  "ultrakill:impacts_processed_179"
     ]
+  },
+  "minos_prime_explosion": {
+    "sounds": [
+      "ultrakill:minos_prime_explosion"
+    ]
+  },
+  "mp_crush": {
+    "sounds": [
+      "ultrakill:mp_crush"
+    ]
+  },
+  "mp_deathscream": {
+    "sounds": [
+      "ultrakill:mp_deathscream"
+    ]
+  },
+  "mp_die": {
+    "sounds": [
+      "ultrakill:mp_die"
+    ]
+  },
+  "mp_die2": {
+    "sounds": [
+      "ultrakill:mp_die2"
+    ]
+  },
+  "mp_hurt": {
+    "sounds": [
+      "ultrakill:mp_hurt"
+    ]
+  },
+  "mp_hurt2": {
+    "sounds": [
+      "ultrakill:mp_hurt2"
+    ]
+  },
+  "mp_intro": {
+    "sounds": [
+      "ultrakill:mp_intro"
+    ]
+  },
+  "mp_intro2": {
+    "sounds": [
+      "ultrakill:mp_intro2"
+    ]
+  },
+  "mp_judgement": {
+    "sounds": [
+      "ultrakill:mp_judgement"
+    ]
+  },
+  "mp_judgement2": {
+    "sounds": [
+      "ultrakill:mp_judgement2"
+    ]
+  },
+  "mp_outro": {
+    "sounds": [
+      "ultrakill:mp_outro"
+    ]
+  },
+  "mp_prepare": {
+    "sounds": [
+      "ultrakill:mp_prepare"
+    ]
+  },
+  "mp_prepare2": {
+    "sounds": [
+      "ultrakill:mp_prepare2"
+    ]
+  },
+  "mp_thyend": {
+    "sounds": [
+      "ultrakill:mp_thyend"
+    ]
+  },
+  "mp_thyend2": {
+    "sounds": [
+      "ultrakill:mp_thyend2"
+    ]
+  },
+  "mp_useless": {
+    "sounds": [
+      "ultrakill:mp_useless"
+    ]
+  },
+  "mp_weak": {
+    "sounds": [
+      "ultrakill:mp_weak"
+    ]
+  },
+  "sp_begone": {
+    "sounds": [
+      "ultrakill:sp_begone"
+    ]
+  },
+  "sp_begone2": {
+    "sounds": [
+      "ultrakill:sp_begone2"
+    ]
+  },
+  "sp_destroy": {
+    "sounds": [
+      "ultrakill:sp_destroy"
+    ]
+  },
+  "sp_destroy2": {
+    "sounds": [
+      "ultrakill:sp_destroy2"
+    ]
+  },
+  "sp_grunt": {
+    "sounds": [
+      "ultrakill:sp_grunt"
+    ]
+  },
+  "sp_intro": {
+    "sounds": [
+      "ultrakill:sp_intro"
+    ]
+  },
+  "sp_keepthemcoming": {
+    "sounds": [
+      "ultrakill:sp_keepthemcoming"
+    ]
+  },
+  "sp_nicetry": {
+    "sounds": [
+      "ultrakill:sp_nicetry"
+    ]
+  },
+  "sp_nicetry2": {
+    "sounds": [
+      "ultrakill:sp_nicetry2"
+    ]
+  },
+  "sp_outro": {
+    "sounds": [
+      "ultrakill:sp_outro"
+    ]
+  },
+  "sp_thisprison": {
+    "sounds": [
+      "ultrakill:sp_thisprison"
+    ]
+  },
+  "sp_thiswillhurt": {
+    "sounds": [
+      "ultrakill:sp_thiswillhurt"
+    ]
+  },
+  "sp_yesthatsit": {
+    "sounds": [
+      "ultrakill:sp_yesthatsit"
+    ]
+  },
+  "sp_youcantescape": {
+    "sounds": [
+      "ultrakill:sp_youcantescape"
+    ]
+  },
+  "sp_youcantescape2": {
+    "sounds": [
+      "ultrakill:sp_youcantescape2"
+    ]
   }
 }
