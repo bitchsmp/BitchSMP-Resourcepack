@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/chrono_blade",
@@ -579,7 +580,7 @@
 		},
 		"gui": {
 			"rotation": [0, 0, -46],
-			"translation": [1.5, 0.25, 0],
+			"translation": [0, -1.25, 0],
 			"scale": [2.8, 2.8, 1.75]
 		},
 		"head": {
@@ -598,7 +599,6 @@
 			"name": "chrono_blade",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [
 				0,
 				1,

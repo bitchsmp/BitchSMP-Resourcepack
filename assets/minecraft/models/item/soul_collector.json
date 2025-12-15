@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/soul_devourer",
@@ -3523,12 +3524,12 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [-4, -90, -8],
-			"translation": [2.5, 1.5, 0.75],
-			"scale": [2.25, 2.25, 2.25]
+			"translation": [2.5, 2, -0.75],
+			"scale": [2, 2, 2]
 		},
 		"firstperson_lefthand": {
-			"rotation": [5, 90, -8],
-			"translation": [3, 2.25, -0.5],
+			"rotation": [-11.14, 82.86, 13.26],
+			"translation": [2.5, 2, -0.75],
 			"scale": [2, 2, 2]
 		},
 		"ground": {
@@ -3537,8 +3538,8 @@
 		},
 		"gui": {
 			"rotation": [0, 0, -42],
-			"translation": [-0.5, -1.5, 0],
-			"scale": [1.75, 1.75, 1.75]
+			"translation": [-1.25, -2, 0],
+			"scale": [1.4, 1.4, 1.4]
 		},
 		"head": {
 			"rotation": [0, 0, -132],
@@ -3556,7 +3557,6 @@
 			"name": "soul_devourer",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [
 				0,
 				1,

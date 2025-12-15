@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/fallen_god_spear",
@@ -1199,13 +1200,13 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -90, -4],
-			"translation": [0.75, 2, 1.5],
-			"scale": [2, 2, 2]
+			"translation": [1.25, 5, -0.25],
+			"scale": [1.7, 1.7, 1.6]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-1, 87, 1],
-			"translation": [3, 3, 0.75],
-			"scale": [2, 2, 2]
+			"rotation": [-1, 90, 4],
+			"translation": [3, 5, -0.25],
+			"scale": [1.7, 1.7, 1.6]
 		},
 		"ground": {
 			"translation": [0, 12.5, 0],
@@ -1213,8 +1214,8 @@
 		},
 		"gui": {
 			"rotation": [0, 0, -42],
-			"translation": [1.25, 1.5, 0],
-			"scale": [2, 2, 1]
+			"translation": [-0.25, 0.25, 0],
+			"scale": [1.4, 1.4, 1]
 		},
 		"fixed": {
 			"rotation": [-180, 0, 138],

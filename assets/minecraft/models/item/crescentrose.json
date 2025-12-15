@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/crescent_rose",
@@ -2139,12 +2140,12 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -90, -4],
-			"translation": [0.75, 3, 2],
+			"translation": [1.25, 3.25, 1.25],
 			"scale": [1.75, 1.75, 1.75]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 90, -4],
-			"translation": [0.75, 3, 2],
+			"rotation": [0, 90, 4],
+			"translation": [1.5, 4.25, 0.25],
 			"scale": [1.75, 1.75, 1.75]
 		},
 		"ground": {
@@ -2152,8 +2153,8 @@
 			"scale": [2.5, 2.5, 2.5]
 		},
 		"gui": {
-			"rotation": [0, 0, -42],
-			"translation": [1.5, 1.5, 0],
+			"rotation": [0, 0, -46],
+			"translation": [-0.25, -1.5, 0],
 			"scale": [1.25, 1.25, 1]
 		},
 		"head": {
