@@ -253,5 +253,10 @@
     "sounds": [
       "ultrakill:sp_youcantescape2"
     ]
+  },
+  "altrevolvershoot1d": {
+    "sounds": [
+      "ultrakill:altrevolvershoot1d"
+    ]
   }
 }
