@@ -1,0 +1,6 @@
+{
+  "parent": "dueris:item/alternate_crossbow",
+  "textures": {
+    "layer0": "minecraft:item/crossbow_pulling_1"
+  }
+}
