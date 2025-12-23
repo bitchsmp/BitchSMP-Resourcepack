@@ -2,5 +2,14 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "touhou_little_maid:item/amulet_danmaku-13"
+  },
+  "display": {
+    "head": {
+      "rotation": [
+        270	,
+        90,
+        0
+      ]
+    }
   }
 }
