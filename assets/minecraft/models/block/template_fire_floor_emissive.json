@@ -144,5 +144,14 @@
       },
       "light_emission": 15
     }
-  ]
+  ],
+  "display": {
+    "ground": {
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  }
 }
