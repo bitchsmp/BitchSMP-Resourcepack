@@ -7,11 +7,27 @@
 	}
     ]
   },
+  "fulladrenaline": {
+    "sounds": [
+	{
+        "name": "calamitymod:fulladrenaline",
+        "volume": 0.3
+	}
+    ]
+  },
+  "fullrage": {
+    "sounds": [
+	{
+        "name": "calamitymod:fullrage",
+        "volume": 0.4
+	}
+    ]
+  },
   "rageactivate": {
 	  "sounds": [
 	  {
         "name": "calamitymod:rageactivate",
-        "volume": 0.3
+        "volume": 0.5
 	  }
 	]
   }
