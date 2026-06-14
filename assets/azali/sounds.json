@@ -1,0 +1,51 @@
+{
+  "music_disc.above_the_law": {
+    "sounds": [
+	  {
+	    "name": "azali:records/above_the_law"
+	  }
+    ]
+  },
+  "music_disc.playing_with_fire_live_violin_ver": {
+    "sounds": [
+	  {
+	    "name": "azali:records/playing_with_fire_live_violin_ver"
+	  }
+    ]
+  },
+  "music_disc.rival": {
+    "sounds": [
+	  {
+	    "name": "azali:records/rival"
+	  }
+    ]
+  },
+  "music_disc.rival_vs_jadenman": {
+    "sounds": [
+	  {
+	    "name": "azali:records/rival_vs_jadenman"
+	  }
+    ]
+  },
+  "music_disc.rival_ice": {
+    "sounds": [
+	  {
+	    "name": "azali:records/rival_ice"
+	  }
+    ]
+  },
+  "music_disc.preparation_for_war": {
+    "sounds": [
+	  {
+	    "name": "azali:records/preparation_for_war"
+	  }
+    ]
+  },
+  "music_disc.wemmbu_thinking_emoji": {
+    "sounds": [
+	  {
+	    "name": "azali:records/wemmbu_thinking_emoji"
+	  }
+    ]
+  }
+}

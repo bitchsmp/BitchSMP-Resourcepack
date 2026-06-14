@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "azali:item/music_disc_wemmbu_thinking_emoji"
+  }
+}
