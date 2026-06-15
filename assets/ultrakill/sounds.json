@@ -258,5 +258,10 @@
     "sounds": [
       "ultrakill:altrevolvershoot1d"
     ]
+  },
+  "blueflash": {
+    "sounds": [
+      "ultrakill:blueflash"
+    ]
   }
 }
