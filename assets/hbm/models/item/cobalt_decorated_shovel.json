@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_shovel",
+  "textures": {
+    "layer0": "hbm:item/cobalt_decorated_shovel"
+  }
+}

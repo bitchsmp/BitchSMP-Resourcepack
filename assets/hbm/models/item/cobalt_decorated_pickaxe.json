@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_pickaxe",
+  "textures": {
+    "layer0": "hbm:item/cobalt_decorated_pickaxe"
+  }
+}
