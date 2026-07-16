@@ -1,0 +1,47 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {
+        "threshold": 1450000,
+        "model": {
+          "type": "minecraft:model",
+          "model": "incendium:item/daybreaker"
+        }
+      },
+      {
+        "threshold": 1450001,
+        "model": {
+          "type": "minecraft:model",
+          "model": "incendium:item/witherblade"
+        }
+      },
+      {
+        "threshold": 1450003,
+        "model": {
+          "type": "minecraft:model",
+          "model": "incendium:item/chilling"
+        }
+      },
+      {
+        "threshold": 1450004,
+        "model": {
+          "type": "minecraft:model",
+          "model": "incendium:item/greatsword"
+        }
+      },
+      {
+        "threshold": 1450005,
+        "model": {
+          "type": "minecraft:model",
+          "model": "incendium:item/scarlet"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_sword"
+    }
+  }
+}
