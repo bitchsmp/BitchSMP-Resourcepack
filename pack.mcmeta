@@ -1,8 +1,102 @@
 {
-  "pack": {
-    "pack_format": 75,
-    "description": "§6 Resourcepack for BitchSMP",
-    "min_format": 75,
-    "max_format": 75
-  }
+	"pack": {
+		"pack_format": 15,
+		"supported_formats": [
+			15,
+			88
+		],
+		"min_format": 15,
+		"max_format": 88,
+		"description": [
+			{
+				"text": "§lB",
+				"color": "#f0c636"
+			},
+			{
+				"text": "§lI",
+				"color": "#26cc85"
+			},
+			{
+				"text": "§lT",
+				"color": "#268bcc"
+			},
+			{
+				"text": "§lC",
+				"color": "#dc76db"
+			},
+			{
+				"text": "§lH",
+				"color": "#aa6cea"
+			},
+			{
+				"text": "§lP",
+				"color": "#ea9dd0"
+			},
+			{
+				"text": "§lA",
+				"color": "#9de9ea"
+			},
+			{
+				"text": "§lCK",
+				"color": "#e78d58"
+			},
+			{
+				"text": " - Created by ",
+				"color": "gray"
+			},
+			{
+				"text": "*Check Resourcepack on Github",
+				"color": "#683edd"
+			}
+		]
+	},
+	"overlays": {
+		"entries": [
+			{
+				"formats": {
+					"min_inclusive": 32,
+					"max_inclusive": 88
+				},
+				"directory": "1-20-5-overlay",
+				"min_format": 32,
+				"max_format": 88
+			},
+			{
+				"formats": {
+					"min_inclusive": 56,
+					"max_inclusive": 88
+				},
+				"directory": "1-21-4-overlay",
+				"min_format": 56,
+				"max_format": 88
+			},
+			{
+				"formats": {
+					"min_inclusive": 69,
+					"max_inclusive": 88
+				},
+				"directory": "1-21-9-overlay",
+				"min_format": 69,
+				"max_format": 88
+			},
+			{
+				"formats": {
+					"min_inclusive": 76,
+					"max_inclusive": 88
+				},
+				"directory": "26-1-overlay",
+				"min_format": 76,
+				"max_format": 88
+			},
+			{
+				"formats": {
+					"min_inclusive": 15,
+					"max_inclusive": 22
+				},
+				"directory": "wolf-overlay",
+				"min_format": 15,
+				"max_format": 22
+			}
+		]
+	}
 }
