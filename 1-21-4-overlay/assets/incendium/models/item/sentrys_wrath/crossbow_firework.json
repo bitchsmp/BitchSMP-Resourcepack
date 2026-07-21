@@ -1,6 +1,0 @@
-{
-    "parent": "item/crossbow",
-    "textures": {
-        "layer0": "incendium:item/sentrys_wrath/crossbow_firework"
-    }
-}
