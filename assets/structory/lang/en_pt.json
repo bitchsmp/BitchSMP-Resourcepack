@@ -1,0 +1,17 @@
+{
+    "structure.structory.boat": "Ship",
+    "structure.structory.firetower": "Blazing Watchtower",
+    "structure.structory.jungle_ruin": "Lost Temple in the wilds",
+    "structure.structory.outcast_villager_desert": "Castaway Scallywag from the sands",
+    "structure.structory.outcast_villager_grassy": "Stray Swashbuckler from the meadows",
+    "structure.structory.ruin_grassy": "Relic of the green lands",
+    "structure.structory.northern_ruin": "Forsaken site of Le North",
+    "structure.structory.swamp_ruin": "Lost relic o' the Murky bog",
+    "structure.structory.taiga_ruin_surface": "forgotten treasure of the Boreal forest",
+    "structure.structory.taiga_ruin_underground": "Underground Taiga Ruin",
+    "structure.structory.abandoned_camp": "Abandoned Camp",
+    "structure.structory.abandoned_chapel": "Abandoned Chapel",
+    "structure.structory.dense_forest_ruin": "Dense Forest Ruin",
+    "structure.structory.graveyard": "Graveyard",
+    "structure.structory.old_manor": "Old Manor"
+}

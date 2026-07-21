@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "incendium:item/trailblazer/bow_pulling_3"
+  }
+}

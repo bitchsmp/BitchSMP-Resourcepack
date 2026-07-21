@@ -1,0 +1,6 @@
+{
+    "parent": "item/feather",
+    "textures": {
+        "layer0": "incendium:item/infernal_feather"
+    }
+}

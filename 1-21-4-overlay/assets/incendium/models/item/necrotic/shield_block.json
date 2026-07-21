@@ -1,0 +1,121 @@
+{
+    "gui_light": "front",
+    "textures": {
+      "layer0": "incendium:item/necrotic/shield",
+      "particle": "incendium:item/necrotic/shield"
+    },
+    "elements": [
+      {
+        "from": [2, 0, 11],
+        "to": [14, 22, 12],
+        "faces": {
+          "north": {"uv": [3.5, 0.25, 6.5, 5.75], "texture": "#layer0"},
+          "east": {"uv": [0, 0.25, 0.25, 5.75], "texture": "#layer0"},
+          "south": {"uv": [0.25, 0.25, 3.25, 5.75], "texture": "#layer0"},
+          "west": {"uv": [3.25, 0.25, 3.5, 5.75], "texture": "#layer0"},
+          "up": {"uv": [0.25, 0, 3.25, 0.25], "texture": "#layer0"},
+          "down": {"uv": [3.25, 0, 6.25, 0.25], "texture": "#layer0"}
+        }
+      },
+      {
+        "from": [7, 8, 5],
+        "to": [9, 14, 11],
+        "faces": {
+          "north": {"uv": [8, 0, 9, 1.5], "texture": "#layer0"},
+          "east": {"uv": [6.5, 1.5, 8, 3], "texture": "#layer0"},
+          "south": {"uv": [8, 0, 9, 1.5], "texture": "#layer0"},
+          "west": {"uv": [8.5, 1.5, 10, 3], "texture": "#layer0"},
+          "up": {"uv": [8, 0, 9, 1.5], "texture": "#layer0"},
+          "down": {"uv": [8, 0, 9, 1.5], "texture": "#layer0"}
+        }
+      }
+    ],
+    "display": {
+      "thirdperson_righthand": {
+        "rotation": [
+          60,
+          150,
+          -10
+        ],
+        "translation": [
+          0,
+          -5,
+          -2
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "thirdperson_lefthand": {
+        "rotation": [
+          60,
+          150,
+          -10
+        ],
+        "translation": [
+          0,
+          -5,
+          -2
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "firstperson_righthand": {
+        "rotation": [
+          0,
+          180,
+          -5
+        ],
+        "translation": [
+          -3.5,
+          -8,
+          1
+        ],
+        "scale": [
+          1.25,
+          1.25,
+          1.25
+        ]
+      },
+      "firstperson_lefthand": {
+        "rotation": [
+          0,
+          180,
+          -5
+        ],
+        "translation": [
+          -3.5,
+          -10,
+          1
+        ],
+        "scale": [
+          1.25,
+          1.25,
+          1.25
+        ]
+      },
+      "gui": {
+        "rotation": [
+          15,
+          -25,
+          -5
+        ],
+        "translation": [
+          0,
+          -1,
+          0
+        ],
+        "scale": [
+          0.65,
+          0.65,
+          0.65
+        ]
+      }
+    }
+  }
+  
