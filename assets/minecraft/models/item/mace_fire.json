@@ -1,6 +1,0 @@
-{
-    "parent": "item/flat_plane_mace",
-    "textures": {
-        "layer0": "item/mace_fire_flat"
-    }
-}
